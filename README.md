@@ -1,10 +1,8 @@
 # Hi, I'm Niraj Kumar 👋
 
-### A passionate indie developer building clean, modern web applications.
+### A passionate indie developer and open sourceror building modern and creative web apps.
 
----
-
-## 🛠 Skills
+## 🚀 Skills
 
 ### Languages
 
@@ -12,44 +10,43 @@
   <img src="./assets/html.png" alt="HTML" width="40" height="40"/>
   <img src="./assets/css.png" alt="CSS" width="40" height="40"/>
   <img src="./assets/javascript.png" alt="JavaScript" width="40" height="40"/>
- 
+  <img src="./assets/sass.png" alt="SASS" width="40" height="40"/>
 </p>
 
-### Frameworks & Libraries
+### 🍱 Frameworks & Libraries
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="./assets/vue.png" alt="Vue JS" width="40" height="40"/>
+  <img src="./assets/react.png" alt="React JS" width="40" height="40"/>
+  <img src="./assets/expressjs.png" alt="Express JS" width="40" height="40"/>
+  <img src="./assets/tailwind.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="./assets/mongo-db.png" alt="Mongo DB" width="40" height="40"/>
 </p>
 
-### Tools
+### 💻 Tools
 
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+ <img src="./assets/visual-studio-code.png" alt="VS Code" width="40" height="40"/>
+  <img src="./assets/git.png" alt="Git" width="40" height="40"/>
+  <img src="./assets/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="./assets/nodejs.png" alt="Node JS" width="40" height="40"/>
+  <img src="./assets/framer.png" alt="Framer" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🔗 Connect with me
 
-[![X/Twitter](https://x.com/_nikuma_)]
-[![LinkedIn](https://www.linkedin.com/in/nikumadev)
-[![GitHub](https://github.com/nikumadev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niraj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikumadev)
+[![GitHub](https://img.shields.io/badge/GitHub-Niraj-black?style=flat-square&logo=github)](https://github.com/nikumadev/)
 
 ---
 
 ## 📂 Projects
 
-- **Project One** – Short description. [Repo Link](#)
-- **Project Two** – Short description. [Repo Link](#)
-- **Project Three** – Short description. [Repo Link](#)
+- **Coming Soon** – Short description. [Repo Link](#)
+- **Coming Soon** – Short description. [Repo Link](#)
+- **Coming Soon** – Short description. [Repo Link](#)
 
 ---
 
