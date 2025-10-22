@@ -31,6 +31,7 @@
   <img src="./assets/github.png" alt="GitHub" width="40" height="40"/>
   <img src="./assets/nodejs.png" alt="Node JS" width="40" height="40"/>
   <img src="./assets/framer.png" alt="Framer" width="40" height="40"/>
+  <img src="./assets/figma.png" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
