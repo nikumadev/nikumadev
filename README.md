@@ -46,9 +46,9 @@
 
 ## 📂 Projects
 
-- **Coming Soon** – Short description. [Repo Link](#)
-- **Coming Soon** – Short description. [Repo Link](#)
-- **Coming Soon** – Short description. [Repo Link](#)
+**AurFarm** – Your Aura Charging Spot.  
+[Live Demo](https://nikumadev.github.io/aurafarm/)
+[Repo](https://github.com/nikumadev/aurafarm)
 
 ---
 
